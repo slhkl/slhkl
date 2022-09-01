@@ -36,10 +36,10 @@
 ![VsStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slhkl&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slhkl&theme=blue-green)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slhkl&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slhkl&theme=blue-green)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=slhkl&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=slhkl-ma&theme=onedark)
 
 </div>
