@@ -40,6 +40,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slhkl&theme=blue-green)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=slhkl-ma&theme=onedark)
-
 </div>
