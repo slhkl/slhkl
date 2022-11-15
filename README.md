@@ -4,6 +4,8 @@
 
 <div align="center">
 
+![GitHub Views](https://komarev.com/ghpvc/?username=slhkl&color=ff8000&style=plastic&label=Visitor+Count)
+  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/slhkl)
 [![GitHub followers](https://img.shields.io/github/followers/slhkl.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/slhkl?tab=followers)
 
@@ -32,10 +34,6 @@
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VsStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-![Visitor Count](https://profile-counter.glitch.me/slhkl/count.svg)
-
-![GitHub Views](https://komarev.com/ghpvc/?username=slhkl)
 
 ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slhkl&theme=blue-green)
 
