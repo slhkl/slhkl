@@ -1,6 +1,3 @@
-
-![Profile views](https://gpvc.arturio.dev/slhkl)
-
 - 🔭 I’m currently working on Detaysoft.
 - 🌱 I’m currently learning .net technologies, DevOps and queue structures.
 - 📫 How to reach me slhkl01@hotmail.com
@@ -35,6 +32,10 @@
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VsStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+![Visitor Count](https://profile-counter.glitch.me/slhkl/count.svg)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=slhkl)
 
 ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slhkl&theme=blue-green)
 
