@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Detaysoft.
+- 🔭 I’m currently working at Detaysoft.
 - 🌱 I’m currently learning .net technologies, DevOps and queue structures.
 - 📫 How to reach me slhkl01@hotmail.com
 
