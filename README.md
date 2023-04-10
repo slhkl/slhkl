@@ -1,6 +1,6 @@
 - 🔭 I’m currently working at Detaysoft.
 - 🌱 I’m currently learning .net technologies, DevOps and queue structures.
-- 📫 How to reach me slhkl01@hotmail.com
+- 📫 How to reach me salih.kol2@gmail.com
 
 <div align="center">
 
